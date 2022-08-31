@@ -10345,4 +10345,32 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+.language-2 {
+  background-color: #fff;
+  display: flex;
+  width: 33rem;
+}
+
+.lango {
+  background-color: #f7f7f9;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 122px;
+  height: 120px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 15px;
+  gap: 1rem;
+}
+
+.lango p {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  color: #253858;
+  margin-top: -12px;
+}
 /*# sourceMappingURL=bootstrap.css.map */
