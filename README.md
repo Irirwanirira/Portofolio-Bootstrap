@@ -37,6 +37,11 @@ This project is about creating a mobile view of my personal portifolio
 -GitHub: @Kaweesi-Matia
 -Twitter:@kaweesimatia
 -LinkedIn: Kaweesi Matia
+## collaborator
+- GitHub: [@Irirwanirira](https://github.com/Irirwanirira)
+- Twitter: [@Iri_joseph](https://twitter.com/Irirwanirira)
+- LinkedIn: [Joseph IRIRWANIRIRA](https://linkedin.com/in/joseph-irirwanirira-74666623a/
+
 
 ### :handshake: Contributing
 
