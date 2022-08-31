@@ -10365,6 +10365,40 @@ a.text-dark:hover, a.text-dark:focus {
   border-radius: 15px;
   gap: 1rem;
 }
+.css-html-js ul {
+  width: auto;
+  float: left;
+  margin-left: -10px;
+}
+
+.css-html-js ul li {
+  float: left;
+  list-style: none;
+  margin: 5px 5px 15px 5px;
+}
+
+.css-html-js ul li .all {
+  font-family: 'pippins', sans-serif;
+  line-height: 24px;
+  color: #396df2;
+  font-size: 17px;
+  margin: 4px 2px;
+  letter-spacing: 3%;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px hidden;
+  border-radius: 5px;
+}
+
+
+.connect{
+  color: blue;
+}
+.img-pst{
+  position: relative;
+  right: 160px;
+}
+
 
 .lango p {
   font-weight: 500;
